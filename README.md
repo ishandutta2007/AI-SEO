@@ -23,19 +23,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI SEO Engines)
 
-| SaaS Product | Starting Price (Monthly) | Free Tier / Trial Limits | Key Features |
-| :--- | :--- | :--- | :--- |
-| **[RankSpot](https://rankspot.com/)** | $39 | **3 free articles** | Autonomous keyword-to-publish agents. |
-| **[SignalQub](https://signalqub.com/)** | Pay-Per-Lead | **5 free leads** | Real-time SEO signals and lead gen for agencies. |
-| **[SEOzapp](https://seozapp.com/)** | $29 | **1 free audit/mo** | All-in-one technical & content optimization. |
-| **[Orbits](https://orbits.com/)** | $200 | **Starter $0** (Limited) | Enterprise-grade "Cluster Orbit" mapping. |
-| **[Search Atlas](https://searchatlas.com/)** | $99 | **7-day free trial** | OTTO SEO automation & LLM visibility tracking. |
-| **[Frase AI Agent](https://www.frase.io/)** | $15 | **7-day free trial** | AI content optimization and research agent. |
-| **[Surfer AI](https://surferseo.com/)** | $89 | **No Free Tier** | Leading on-page SEO optimization engine. |
-| **[Semrush One](https://www.semrush.com/)** | $199 | **10 searches/day** | Full AI-powered SEO & visibility toolkit. |
-| **[Ahrefs Brand Radar](https://ahrefs.com/)** | $29 | **Webmaster Tools** | Advanced brand monitoring and SEO intelligence. |
-| **[Writesonic](https://writesonic.com/)** | $39 | **10,000 words/mo** | High-volume SEO content and GEO tracking. |
-| **[MarketMuse](https://www.marketmuse.com/)** | $149 | **10 queries/mo** | AI content planning and topical authority. |
+| SaaS Product | Company Size (Est. Valuation/Revenue) | Starting Price (Monthly) | Free Tier / Trial Limits | Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Semrush One](https://www.semrush.com/)** | ~$1.9B Valuation | $199 | 10 searches/day | Full AI-powered SEO & visibility toolkit. |
+| **[Ahrefs Brand Radar](https://ahrefs.com/)** | $100M+ ARR | $29 | Webmaster Tools | Advanced brand monitoring and SEO intelligence. |
+| **[Writesonic](https://writesonic.com/)** | ~$250M Valuation | $39 | 10,000 words/mo | High-volume SEO content and GEO tracking. |
+| **[Surfer AI](https://surferseo.com/)** | ~$48M Valuation | $89 | No Free Tier | Leading on-page SEO optimization engine. |
+| **[Search Atlas](https://searchatlas.com/)** | $30M ARR | $99 | 7-day free trial | OTTO SEO automation & LLM visibility tracking. |
+| **[Frase AI Agent](https://www.frase.io/)** | ~$20M Valuation | $15 | 7-day free trial | AI content optimization and research agent. |
+| **[MarketMuse](https://www.marketmuse.com/)** | $8.9M Revenue | $149 | 10 queries/mo | AI content planning and topical authority. |
+| **[Orbits](https://orbits.com/)** | <$1M (Bootstrapped) | $200 | Starter $0 | Enterprise-grade "Cluster Orbit" mapping. |
+| **[RankSpot](https://rankspot.com/)** | New (Bootstrapped) | $39 | 3 free articles | Autonomous keyword-to-publish agents. |
+| **[SEOzapp](https://seozapp.com/)** | <$500k (Bootstrapped) | $29 | 1 free audit/mo | All-in-one technical & content optimization. |
+| **[SignalQub](https://signalqub.com/)** | Bootstrapped | Pay-Per-Lead | 5 free leads | Real-time SEO signals and lead gen for agencies. |
 
 ### Advanced & Specialized Platforms
 
