@@ -1,3 +1,10 @@
+<!-- 
+  SEO Metadata
+  Title: AI-SEO | Ultimate Ecosystem for AI SEO Engines & Automation
+  Description: A curated list of the best AI SEO SaaS platforms and open-source projects. Automate your SEO content, ranking, and optimization.
+  Keywords: AI SEO, SEO Automation, AI Content, SEO Agents, Rank Tracking, Open Source SEO
+-->
+
 <div align="center">
 
 # 🚀 AI-SEO: The Ultimate AI SEO Engines Ecosystem
@@ -14,6 +21,8 @@
 ---
 
 ### 🔍 Revolutionizing Search Visibility with Agentic AI
+
+![SEO Automation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3Q1eXJqZ3Q1eXJqZ3Q1eXJqZ3Q1eXJqZ3Q1eXJqZ3Q1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif)
 
 AI-SEO is a comprehensive directory of the world's most advanced **AI SEO Engines** and **SEO Automation Tools**. Whether you are looking for enterprise-grade SaaS platforms or sovereign open-source projects, this ecosystem has everything you need to dominate the SERPs.
 
