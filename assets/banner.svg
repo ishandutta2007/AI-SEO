@@ -1,0 +1,8 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="10" fill="#1A1A1A"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="60" font-weight="bold">AI-SEO</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#00D1B2" font-family="Arial, sans-serif" font-size="20">Autonomous SEO Engines &amp; Optimization Tools</text>
+  <path d="M50 50L100 100L50 150" stroke="#00D1B2" stroke-width="4" stroke-linecap="round"/>
+  <path d="M750 50L700 100L750 150" stroke="#00D1B2" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="400" cy="100" r="80" stroke="#333333" stroke-width="1" stroke-dasharray="10 5"/>
+</svg>

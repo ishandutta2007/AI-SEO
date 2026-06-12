@@ -1,120 +1,112 @@
-# AI-SEO
-## Top AI SEO Engines Ecosystem
+<div align="center">
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI-Powered SEO Optimization, Content & Ranking Automation*  
-**Last updated: March 2026**
+# 🚀 AI-SEO: The Ultimate AI SEO Engines Ecosystem
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **AI SEO Engines**. These tools use AI to analyze keywords, generate optimized content, track rankings, audit technical SEO, monitor competitors, and autonomously improve search performance.
+[![Banner](assets/banner.svg)](https://github.com/ishandutta2007/AI-SEO)
 
-**Examples** include RankSpot, SignalQub, SEOzapp, Orbits (Orbit Media Studios), Search Atlas (OTTO SEO), Frase AI Agent, Surfer AI, Semrush Enterprise AIO, Ahrefs Brand Radar, Writesonic (AI Article Writer 6), and MarketMuse (the category leaders). Tools listed here emphasize **agentic capabilities** (content generation, on-page optimization, ranking prediction, and automated strategy execution).
+**Curated List of SaaS Products & Open-Source Projects for AI-Powered SEO Optimization, Content & Ranking Automation**
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), full customization, and complete data privacy — ideal for SEO professionals and agencies who want sovereign AI SEO tools without recurring costs.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS Products
-
-### Core Platforms (AI SEO Engines)
-
-| SaaS Product | Company Size (Est. Valuation/Revenue) | Starting Price (Monthly) | Free Tier / Trial Limits | Key Features |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Semrush One](https://www.semrush.com/)** | ~$1.9B Valuation | $199 | 10 searches/day | Full AI-powered SEO & visibility toolkit. |
-| **[Ahrefs Brand Radar](https://ahrefs.com/)** | $100M+ ARR | $29 | Webmaster Tools | Advanced brand monitoring and SEO intelligence. |
-| **[Writesonic](https://writesonic.com/)** | ~$250M Valuation | $39 | 10,000 words/mo | High-volume SEO content and GEO tracking. |
-| **[Surfer AI](https://surferseo.com/)** | ~$48M Valuation | $89 | No Free Tier | Leading on-page SEO optimization engine. |
-| **[Search Atlas](https://searchatlas.com/)** | $30M ARR | $99 | 7-day free trial | OTTO SEO automation & LLM visibility tracking. |
-| **[Frase AI Agent](https://www.frase.io/)** | ~$20M Valuation | $15 | 7-day free trial | AI content optimization and research agent. |
-| **[MarketMuse](https://www.marketmuse.com/)** | $8.9M Revenue | $149 | 10 queries/mo | AI content planning and topical authority. |
-| **[Orbits](https://orbits.com/)** | <$1M (Bootstrapped) | $200 | Starter $0 | Enterprise-grade "Cluster Orbit" mapping. |
-| **[RankSpot](https://rankspot.com/)** | New (Bootstrapped) | $39 | 3 free articles | Autonomous keyword-to-publish agents. |
-| **[SEOzapp](https://seozapp.com/)** | <$500k (Bootstrapped) | $29 | 1 free audit/mo | All-in-one technical & content optimization. |
-| **[SignalQub](https://signalqub.com/)** | Bootstrapped | Pay-Per-Lead | 5 free leads | Real-time SEO signals and lead gen for agencies. |
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: Clearscope, NeuronWriter, and various AI SEO copilots.
-
-## Open-Source GitHub Projects
-
-### Dedicated AI SEO & Content Optimization Projects
-
-- **[n8n SEO Workflows](https://github.com/n8n-io/n8n)**  
-  Open-source workflow automation with LLM nodes for building custom AI SEO pipelines, keyword research, and content optimization.
-
-- **[LangGraph SEO Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building autonomous SEO agents that research keywords, generate content, and track performance.
-
-- **[CrewAI SEO Crews](https://github.com/crewAIInc/crewAI)**  
-  Role-based multi-agent orchestration with strong community templates for keyword research, content creation, and technical SEO audits.
-
-- **[Huginn SEO Agents](https://github.com/huginn/huginn)**  
-  Open-source personal automation agent for monitoring rankings, competitors, and triggering SEO actions.
-
-- **[SEO Analyzer Tools](https://github.com/search?q=seo+analyzer+open+source)**  
-  Multiple open-source SEO auditing and on-page optimization scripts with AI enhancements.
-
-- **[Open WebUI + SEO Plugins](https://github.com/open-webui/open-webui)**  
-  Local LLM interface with extensions for SEO content generation and strategy assistance.
-
-- **[Scrapy SEO Spiders](https://github.com/scrapy/scrapy)**  
-  Powerful crawling framework used to build custom SEO data collection and competitor analysis tools.
-
-- **[Phidata SEO Agents](https://github.com/phidatahq/phidata)**  
-  Framework for building production SEO agents with memory, knowledge, and tool integrations.
-
-- **[LlamaIndex SEO Pipelines](https://github.com/run-llama/llama_index)**  
-  Advanced RAG framework for building semantic SEO tools and content optimization systems.
-
-- **[Custom Python SEO Kits](https://github.com/search?q=ai+seo+python)**  
-  Community repositories combining local LLMs with keyword research, content scoring, and automation.
-
-### Additional Strong Open-Source Options
-
-- **[Matomo](https://github.com/matomo-org/matomo)** — Open-source analytics with strong SEO tracking capabilities.
-- **[Yoast SEO](https://github.com/Yoast)** (WordPress) and open-source forks.
-- **[RankMath Open Alternatives** and community SEO plugins.
-- **[LangChain + SERP API** templates for automated keyword and ranking agents.
-- Many **Ollama + CrewAI** SEO agent templates for fully local operation.
-
-**Frameworks for building custom SEO engines**: Combine **LangGraph**, **CrewAI**, **n8n**, and **Scrapy** with **Ollama** to create fully private, powerful AI SEO systems that run on your infrastructure.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Automated SEO tools must comply with search engine guidelines (Google, Bing, etc.) to avoid penalties.
-- Self-hosted open-source solutions require proper setup and ongoing maintenance.
+[![](https://img.shields.io/github/stars/ishandutta2007/AI-SEO?style=for-the-badge&logo=github&color=gold)](https://github.com/ishandutta2007/AI-SEO/stargazers)
+[![](https://img.shields.io/github/forks/ishandutta2007/AI-SEO?style=for-the-badge&logo=github&color=blue)](https://github.com/ishandutta2007/AI-SEO/network/members)
+[![](https://img.shields.io/github/issues/ishandutta2007/AI-SEO?style=for-the-badge&logo=github&color=red)](https://github.com/ishandutta2007/AI-SEO/issues)
+[![](https://img.shields.io/github/license/ishandutta2007/AI-SEO?style=for-the-badge&logo=github&color=green)](https://github.com/ishandutta2007/AI-SEO/blob/main/LICENSE)
 
 ---
 
+### 🔍 Revolutionizing Search Visibility with Agentic AI
 
-## 📈 Star History
+AI-SEO is a comprehensive directory of the world's most advanced **AI SEO Engines** and **SEO Automation Tools**. Whether you are looking for enterprise-grade SaaS platforms or sovereign open-source projects, this ecosystem has everything you need to dominate the SERPs.
+
+[**Explore SaaS**](#-saas-products) • [**Open Source**](#-open-source-github-projects) • [**Contribute**](#-how-to-contribute)
+
+</div>
+
+## 📖 Introduction
+
+This repository tracks notable **SaaS platforms** and **open-source projects** building **AI SEO Engines**. These tools leverage Large Language Models (LLMs) to analyze keywords, generate optimized content, track rankings, audit technical SEO, monitor competitors, and autonomously improve search performance.
+
+**Keywords:** *AI SEO, SEO Automation, AI Content Generation, Rank Tracking, Technical SEO Audit, Search Engine Optimization, LLM SEO, Agentic SEO.*
+
+---
+
+## 🛠 Features & Capabilities
+
+- 🤖 **Autonomous Content Agents:** Generate high-quality, SEO-optimized articles.
+- 📈 **Ranking Prediction:** Predict how content will perform before publishing.
+- 🔍 **Semantic Research:** Deep keyword analysis using RAG and LLMs.
+- 🛠 **Technical Audits:** Automated identification of SEO issues.
+- 🌐 **Global Monitoring:** Track visibility across different regions and languages.
+
+---
+
+## ☁️ SaaS Products
+
+### 🚀 Core Platforms (AI SEO Engines)
+
+| SaaS Product | Company Size | Starting Price | Free Tier | Key Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Semrush One](https://www.semrush.com/)** | ~$1.9B | $199 | 10 searches/day | Full AI-powered SEO & visibility toolkit. |
+| **[Ahrefs Brand Radar](https://ahrefs.com/)** | $100M+ ARR | $29 | Webmaster Tools | Advanced brand monitoring and SEO intelligence. |
+| **[Writesonic](https://writesonic.com/)** | ~$250M | $39 | 10,000 words/mo | High-volume SEO content and GEO tracking. |
+| **[Surfer AI](https://surferseo.com/)** | ~$48M | $89 | No Free Tier | Leading on-page SEO optimization engine. |
+| **[Search Atlas](https://searchatlas.com/)** | $30M ARR | $99 | 7-day trial | OTTO SEO automation & LLM visibility tracking. |
+| **[Frase AI Agent](https://www.frase.io/)** | ~$20M | $15 | 7-day trial | AI content optimization and research agent. |
+| **[MarketMuse](https://www.marketmuse.com/)** | $8.9M | $149 | 10 queries/mo | AI content planning and topical authority. |
+| **[Orbits](https://orbits.com/)** | Bootstrapped | $200 | Starter $0 | Enterprise-grade "Cluster Orbit" mapping. |
+| **[RankSpot](https://rankspot.com/)** | New | $39 | 3 articles | Autonomous keyword-to-publish agents. |
+| **[SEOzapp](https://seozapp.com/)** | Bootstrapped | $29 | 1 audit/mo | All-in-one technical & content optimization. |
+| **[SignalQub](https://signalqub.com/)** | Bootstrapped | Pay-Per-Lead | 5 free leads | Real-time SEO signals and lead gen. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+### 🧪 Dedicated AI SEO & Optimization
+
+- ⚡ **[n8n SEO Workflows](https://github.com/n8n-io/n8n)** - Open-source workflow automation for building custom AI SEO pipelines.
+- 🧠 **[LangGraph SEO Agents](https://github.com/langchain-ai/langgraph)** - Multi-agent framework for autonomous SEO research.
+- 👥 **[CrewAI SEO Crews](https://github.com/crewAIInc/crewAI)** - Role-based multi-agent orchestration for SEO tasks.
+- 🐦 **[Huginn SEO Agents](https://github.com/huginn/huginn)** - Personal automation agent for monitoring rankings and competitors.
+- 🔍 **[SEO Analyzer Tools](https://github.com/search?q=seo+analyzer+open+source)** - Open-source scripts for technical SEO audits.
+- 🖥️ **[Open WebUI + SEO](https://github.com/open-webui/open-webui)** - Local LLM interface with SEO strategy extensions.
+- 🕷️ **[Scrapy SEO Spiders](https://github.com/scrapy/scrapy)** - Crawling framework for SEO data collection.
+- 🏗️ **[Phidata SEO Agents](https://github.com/phidatahq/phidata)** - Production-ready SEO agents with memory and tools.
+- 📚 **[LlamaIndex SEO](https://github.com/run-llama/llama_index)** - RAG framework for semantic SEO systems.
+- 🐍 **[Custom Python SEO Kits](https://github.com/search?q=ai+seo+python)** - Community kits for local LLM SEO automation.
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions! Help us keep this list up-to-date.
+
+1. 🍴 **Fork** the repo.
+2. 📝 **Add/Edit** entries in `README.md`.
+3. ✅ **Ensure** descriptions are factual and links work.
+4. 🚀 **Submit** a Pull Request.
+
+---
+
+## 📊 Star History
 
 <div align="center">
-   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAI-SEO&type=date&legend=bottom-right">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/AI-SEO&type=date&theme=dark&legend=bottom-right" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/AI-SEO&type=date&legend=bottom-right" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/AI-SEO&type=date&legend=bottom-right" />
-    </picture>
-   </a>
+
+[![Star History Chart](https://api.star-history.com/chart?repos=ishandutta2007/AI-SEO&type=date)](https://star-history.com/#ishandutta2007/AI-SEO&Date)
+
 </div>
 
 ---
-**Made for SEO specialists, content marketers, growth hackers, and digital agencies.**  
-Let's make SEO more intelligent, automated, and fully controllable.
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not an endorsement.
+- Ensure compliance with search engine guidelines (Google, Bing) to avoid penalties.
+- Self-hosted solutions require ongoing maintenance.
+
+---
+
+<div align="center">
+
+**Made with ❤️ for SEO Specialists, Growth Hackers, and Digital Agencies.**
+
+</div>
