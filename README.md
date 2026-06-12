@@ -23,38 +23,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI SEO Engines)
 
-- **[RankSpot](https://rankspot.com/)**  
-  AI SEO engine focused on automated keyword research, content optimization, and ranking tracking.
-
-- **[SignalQub](https://signalqub.com/)**  
-  Intelligent AI platform for real-time SEO signals, competitor analysis, and automated improvements.
-
-- **[SEOzapp](https://seozapp.com/)**  
-  All-in-one AI SEO tool with content generation and technical optimization features.
-
-- **[Orbits by Orbit Media Studios](https://orbits.com/)**  
-  AI-driven SEO and content strategy platform with strong automation capabilities.
-
-- **[Search Atlas (OTTO SEO)](https://searchatlas.com/)**  
-  Comprehensive AI SEO suite for keyword clustering, content briefs, and performance optimization.
-
-- **[Frase AI Agent](https://www.frase.io/)**  
-  AI content optimization and research agent that creates SEO-optimized articles and outlines.
-
-- **[Surfer AI](https://surferseo.com/)**  
-  Leading on-page SEO optimization engine with AI content generation and SERP analysis.
-
-- **[Semrush Enterprise AIO](https://www.semrush.com/)**  
-  Full AI-powered SEO platform with content, technical, and competitive intelligence tools.
-
-- **[Ahrefs Brand Radar](https://ahrefs.com/)**  
-  Advanced AI monitoring and SEO intelligence for brand and keyword performance.
-
-- **[Writesonic AI Article Writer 6](https://writesonic.com/)**  
-  High-volume AI writer optimized for SEO content at scale.
-
-- **[MarketMuse](https://www.marketmuse.com/)**  
-  AI content planning and optimization platform with deep topical authority insights.
+| SaaS Product | Starting Price (Monthly) | Free Tier / Trial Limits | Key Features |
+| :--- | :--- | :--- | :--- |
+| **[RankSpot](https://rankspot.com/)** | $39 | **3 free articles** | Autonomous keyword-to-publish agents. |
+| **[SignalQub](https://signalqub.com/)** | Pay-Per-Lead | **5 free leads** | Real-time SEO signals and lead gen for agencies. |
+| **[SEOzapp](https://seozapp.com/)** | $29 | **1 free audit/mo** | All-in-one technical & content optimization. |
+| **[Orbits](https://orbits.com/)** | $200 | **Starter $0** (Limited) | Enterprise-grade "Cluster Orbit" mapping. |
+| **[Search Atlas](https://searchatlas.com/)** | $99 | **7-day free trial** | OTTO SEO automation & LLM visibility tracking. |
+| **[Frase AI Agent](https://www.frase.io/)** | $15 | **7-day free trial** | AI content optimization and research agent. |
+| **[Surfer AI](https://surferseo.com/)** | $89 | **No Free Tier** | Leading on-page SEO optimization engine. |
+| **[Semrush One](https://www.semrush.com/)** | $199 | **10 searches/day** | Full AI-powered SEO & visibility toolkit. |
+| **[Ahrefs Brand Radar](https://ahrefs.com/)** | $29 | **Webmaster Tools** | Advanced brand monitoring and SEO intelligence. |
+| **[Writesonic](https://writesonic.com/)** | $39 | **10,000 words/mo** | High-volume SEO content and GEO tracking. |
+| **[MarketMuse](https://www.marketmuse.com/)** | $149 | **10 queries/mo** | AI content planning and topical authority. |
 
 ### Advanced & Specialized Platforms
 
